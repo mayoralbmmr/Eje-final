@@ -1,4 +1,4 @@
-print("Vamos a crear un cuento juntos")
+print("Holi vamos a crear un cuento de terror juntos")
 nombre = input("Primero dime tu nombre ")
 
 print("De acuerdo " + nombre + " list@ para aterrarte? ")
